@@ -121,7 +121,7 @@ fun Demo(){
                 Icon(imageVector = Icons.Default.ExitToApp, contentDescription = "View machines")
                 Spacer(modifier = Modifier.width(8.dp))
                 Text(
-                    "View the machines",
+                    "Click Here To View the machines",
                     fontSize = 10.sp,
                     )
             }
